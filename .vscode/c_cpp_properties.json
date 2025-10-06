@@ -1,7 +1,7 @@
 {
   "configurations": [
     {
-      "name": "windows-gcc-x86",
+      "name": "C:/MinGW/bin/gcc.exe",
       "includePath": [
         "${workspaceFolder}/**"
       ],
